@@ -1,0 +1,27 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .form-section {
+    padding: 2rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin-right: 2rem; 
+  }
+  
+  .background-image {
+    background-image: url("signUpImg.jpg"); 
+    background-size: cover;
+    background-position: center;
+    width: 400px; 
+    height: 100vh;
+    border-radius: 8px;
+  }
+  

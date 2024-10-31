@@ -1,0 +1,99 @@
+.login-container {
+  background-image: url("./background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  background-image: url('./backgroundImg.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.left-icon{
+  font-size: 40px;
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  color: rgba(20, 20, 20,0.6);
+  
+}
+.form-c {
+  margin-top: 70px;
+}
+.form-main-container{
+  margin-top: 130px;
+}
+
+.signUp-btn {
+  color: rgba(85, 83, 83, 0.7) !important;
+  font-size: 1.5rem;
+  font-weight: bold;
+  position: relative;
+  top: -70px;
+  width: 170px;
+  background-color: rgba(115, 243, 230, 1) !important;
+  border: none !important;
+}
+
+.signUp-btn:hover {
+  background-color: #a0e5d9 !important;
+  color: rgba(15, 15, 15, 0.5);
+}
+
+.input-icon {
+  display: flex;
+  align-items: center;
+  background-color: #495973;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+.input-icon svg {
+  margin-right: 0.5rem;
+  color: grey;
+}
+
+.input-field {
+  background-color: transparent !important;
+  border: none !important;
+  color: white !important;
+}
+
+.input-field::placeholder {
+  color: #bbb;
+}
+
+.icon {
+  border-right: 2px solid grey;
+}
+
+.login-button {
+  background-color: rgba(115, 243, 230, 1) !important;
+  color: #000 !important;
+  font-weight: bold;
+  border: none;
+  padding: 0.75rem;
+  border-radius: 4px;
+}
+
+.login-button:hover {
+  background-color: #a0e5d9 !important;
+  color: #000;
+}
+
+.forget-password {
+  color: rgba(160, 229, 217, 0.9);
+  text-decoration: none;
+  font-size: small;
+}
+
+.check {
+  font-size: small;
+  color: white;
+}
