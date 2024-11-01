@@ -1,5 +1,5 @@
 .login-container {
-  background-image: url("./background.jpg");
+  background-image: url("background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -11,7 +11,7 @@
   color: #fff;
   padding: 2rem;
   border-radius: 8px;
-  background-image: url('./backgroundImg.jpg');
+  background-image: url('backgroundImg.jpg');
   background-size: cover;
   background-position: center;
 }

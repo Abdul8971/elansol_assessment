@@ -22,7 +22,7 @@ function SignUpPage() {
   const onSubmit = async (data) => {
     try {
       const response = await axios.post(
-        "http://localhost:8000/api/auth/signup",
+        "https://elansol-assessment.onrender.com/api/auth/signup",
         data
       );
       localStorage.setItem("user", JSON.stringify(data));

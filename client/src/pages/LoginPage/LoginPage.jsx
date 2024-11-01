@@ -21,7 +21,7 @@ function LoginPage() {
   const onSubmit = async (data) => {
     try {
       const response = await axios.post(
-        "http://localhost:8000/api/auth/login",
+        "https://elansol-assessment.onrender.com/api/auth/login",
         data
       );
       const { token, success, user } = response.data;
