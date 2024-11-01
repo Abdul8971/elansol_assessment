@@ -1,5 +1,5 @@
 ELANSOL Technology - MERN Stack Application
-
+project deployed link : https://abdul-elansol-assessment.netlify.app/
 This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application for ELANSOL Technology Private Limited. It includes user authentication, a responsive design, and a user profile feature.
 
 Features
